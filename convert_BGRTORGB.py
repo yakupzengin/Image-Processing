@@ -4,7 +4,6 @@
 """
 
 import cv2
-from display_image import display_image
 
 
 # Read a different image file
